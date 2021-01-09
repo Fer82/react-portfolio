@@ -1,6 +1,5 @@
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import { Link } from "react-router-dom";
 
 import "./style.css";
 
@@ -13,9 +12,7 @@ export default function Project(props) {
             <Card.Title>{props.title}</Card.Title>
             <Card.Text>{props.description}</Card.Text>
             <div className="card-button">
-              <Link to={props.url}>
-                  <Button variant="primary">Visit Project</Button>
-              </Link>
+              <a href={props.url} target="_blank"><Button variant="primary">Visit Project</Button></a>
             </div>
           </Card.Body>
         </Card>
