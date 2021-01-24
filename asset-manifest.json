@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Fer82/react-portfolio.git/static/css/main.6790635b.chunk.css",
-    "main.js": "/Fer82/react-portfolio.git/static/js/main.3419219c.chunk.js",
-    "main.js.map": "/Fer82/react-portfolio.git/static/js/main.3419219c.chunk.js.map",
-    "runtime-main.js": "/Fer82/react-portfolio.git/static/js/runtime-main.52590d9e.js",
-    "runtime-main.js.map": "/Fer82/react-portfolio.git/static/js/runtime-main.52590d9e.js.map",
-    "static/js/2.d4f3ccc4.chunk.js": "/Fer82/react-portfolio.git/static/js/2.d4f3ccc4.chunk.js",
-    "static/js/2.d4f3ccc4.chunk.js.map": "/Fer82/react-portfolio.git/static/js/2.d4f3ccc4.chunk.js.map",
-    "static/js/3.41be3144.chunk.js": "/Fer82/react-portfolio.git/static/js/3.41be3144.chunk.js",
-    "static/js/3.41be3144.chunk.js.map": "/Fer82/react-portfolio.git/static/js/3.41be3144.chunk.js.map",
-    "index.html": "/Fer82/react-portfolio.git/index.html",
-    "static/css/main.6790635b.chunk.css.map": "/Fer82/react-portfolio.git/static/css/main.6790635b.chunk.css.map",
-    "static/js/2.d4f3ccc4.chunk.js.LICENSE.txt": "/Fer82/react-portfolio.git/static/js/2.d4f3ccc4.chunk.js.LICENSE.txt",
-    "static/media/granada-spain.a6d09391.jpg": "/Fer82/react-portfolio.git/static/media/granada-spain.a6d09391.jpg"
+    "main.css": "/react-portfolio/static/css/main.6790635b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f506cca2.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f506cca2.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a2c9a36e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a2c9a36e.js.map",
+    "static/js/2.d4f3ccc4.chunk.js": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js",
+    "static/js/2.d4f3ccc4.chunk.js.map": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js.map",
+    "static/js/3.41be3144.chunk.js": "/react-portfolio/static/js/3.41be3144.chunk.js",
+    "static/js/3.41be3144.chunk.js.map": "/react-portfolio/static/js/3.41be3144.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.6790635b.chunk.css.map": "/react-portfolio/static/css/main.6790635b.chunk.css.map",
+    "static/js/2.d4f3ccc4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js.LICENSE.txt",
+    "static/media/granada-spain.a6d09391.jpg": "/react-portfolio/static/media/granada-spain.a6d09391.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.52590d9e.js",
+    "static/js/runtime-main.a2c9a36e.js",
     "static/js/2.d4f3ccc4.chunk.js",
     "static/css/main.6790635b.chunk.css",
-    "static/js/main.3419219c.chunk.js"
+    "static/js/main.f506cca2.chunk.js"
   ]
 }
