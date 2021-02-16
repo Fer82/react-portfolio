@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6790635b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.f506cca2.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.f506cca2.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a2c9a36e.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a2c9a36e.js.map",
-    "static/js/2.d4f3ccc4.chunk.js": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js",
-    "static/js/2.d4f3ccc4.chunk.js.map": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js.map",
-    "static/js/3.41be3144.chunk.js": "/react-portfolio/static/js/3.41be3144.chunk.js",
-    "static/js/3.41be3144.chunk.js.map": "/react-portfolio/static/js/3.41be3144.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.244f7074.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.fa22351d.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.fa22351d.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7686de59.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7686de59.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/react-portfolio/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8359b87c.chunk.js": "/react-portfolio/static/js/2.8359b87c.chunk.js",
+    "static/js/2.8359b87c.chunk.js.map": "/react-portfolio/static/js/2.8359b87c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.6790635b.chunk.css.map": "/react-portfolio/static/css/main.6790635b.chunk.css.map",
-    "static/js/2.d4f3ccc4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d4f3ccc4.chunk.js.LICENSE.txt",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/react-portfolio/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.244f7074.chunk.css.map": "/react-portfolio/static/css/main.244f7074.chunk.css.map",
+    "static/js/2.8359b87c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.8359b87c.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/react-portfolio/static/media/background.portfolio2.ac37403e.jpg",
+    "static/media/fer.2482d5fb.jpg": "/react-portfolio/static/media/fer.2482d5fb.jpg",
     "static/media/granada-spain.a6d09391.jpg": "/react-portfolio/static/media/granada-spain.a6d09391.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2c9a36e.js",
-    "static/js/2.d4f3ccc4.chunk.js",
-    "static/css/main.6790635b.chunk.css",
-    "static/js/main.f506cca2.chunk.js"
+    "static/js/runtime-main.7686de59.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8359b87c.chunk.js",
+    "static/css/main.244f7074.chunk.css",
+    "static/js/main.fa22351d.chunk.js"
   ]
 }
