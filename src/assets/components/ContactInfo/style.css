@@ -1,0 +1,20 @@
+.social-icons {
+    width: 70px; 
+    height: 70px;
+}
+
+.form-group {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 30px;
+}
+
+#contact {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 40px;
+}
+
+#me {
+    color: rgb(98, 235, 128);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
