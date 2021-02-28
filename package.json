@@ -2,7 +2,7 @@
   "name": "react-portfolio-fer-ang-don",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Fer82/react-portfolio-fer-ang-don.git",
+  "homepage": "https://fer82.github.io/react-portfolio-fer-ang-don",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
