@@ -21,29 +21,23 @@ const projects = [
         image: ''
     },
     {
-        title: 'project 4',
-        description: 'project 4 description',
-        url: '',
+        title: 'Work Day Schedule',
+        description: 'Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.',
+        url: 'https://github.com/Fer82/H-5-Work-Day-Scheduler',
         image: ''
     },
     {
-        title: 'project 5',
-        description: 'project 5 description',
-        url: '',
+        title: 'Pasword Generator',
+        description: 'Application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code',
+        url: 'https://github.com/Fer82/H3-Password-Generator',
         image: ''
     },
     {
-        title: 'project 6',
-        description: 'project 6 description',
-        url: '',
+        title: 'Weather Dasboard',
+        description: 'Application API, using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS',
+        url: 'https://github.com/Fer82/H-6-Weather-Dashboard',
         image: ''
     },
-    {
-        title: 'project 7',
-        description: 'project 7 description',
-        url: '',
-        image: ''
-    }
 ];
 
 export default function Portfolio() {
