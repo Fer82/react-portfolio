@@ -3,21 +3,21 @@ import Project from '../../components/Project';
 
 const projects = [
     {
-        title: 'Projecte-One',
-        description: 'This was the nineteenth homework assignment for the full stack web development program at UC Irvine, in which the goal was to build an employee directory application using React.',
+        title: 'Projecte 1',
+        description: 'This is the first project for our Coding Bootcamp in a Group/Team setting.',
         url: 'https://github.com/Fer82/project-one',
         image: ''
     },
     {
-        title: 'H-18-Progressive-Budget',
-        description: 'project 2 description',
-        url: 'https://github.com/Fer82/H-18-Progressive-Budget',
+        title: 'Project 2',
+        description: 'This was the Second project for the full stack web development program at UC Irvine, in which the goal was to build an interactive application',
+        url: 'https://github.com/Fer82/food-inventory',
         image: ''
     },
     {
-        title: 'React-Portfolio',
-        description: 'A ReactJS version of my portfolio site utilizing stateless and stateful components.',
-        url: 'https://github.com/Fer82/H-20-React-Portfolio',
+        title: 'Project 3',
+        description: 'This was the final project for the full stack web development program at UC Irvine, in which the goal was to create an application that has real world value. The criteria for this project included the use of REACTJS, Node, MYSQL or MongoDB, and the use of two new technologies.',
+        url: 'https://github.com/Fer82/one_mans_trash',
         image: ''
     },
     {
