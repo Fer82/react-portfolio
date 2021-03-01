@@ -3,9 +3,9 @@ import Project from '../../components/Project';
 
 const projects = [
     {
-        title: 'H-19-Employee-Directory',
+        title: 'Projecte-One',
         description: 'This was the nineteenth homework assignment for the full stack web development program at UC Irvine, in which the goal was to build an employee directory application using React.',
-        url: 'https://github.com/Fer82/H-19-Employee-Directory',
+        url: 'https://github.com/Fer82/project-one',
         image: ''
     },
     {
