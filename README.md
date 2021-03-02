@@ -3,7 +3,7 @@ UCI Boot Camp Homework 20 - React Porfolio
 
 Click [here]( https://fer82.github.io/react-portfolio-fer-ang-don/) to open deployed Github pages application.
 
-![deployed application](public/deployed_app.JPG)
+![deployed application](public/React-screenshot.JPG)
 
 ## Description 
  This was the twentieth homework assignment for the full stack web development program at UC Irvine, in which the goal was to redo our portfolio pages using React. The criteria for the portoflio included have a navbar and footer which should appear on all pages, use the React Router component to route between pages, and have a single project component which can be used to map out all entered portfolio projects.
