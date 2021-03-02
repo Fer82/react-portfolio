@@ -3,7 +3,7 @@ import Project from '../../components/Project';
 
 const projects = [
     {
-        title: 'Projecte 1',
+        title: 'Project 1',
         description: 'This is the first project for our Coding Bootcamp in a Group/Team setting.',
         url: 'https://github.com/Fer82/project-one',
         image: ''
