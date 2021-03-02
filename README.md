@@ -29,8 +29,8 @@ If using from the Github pages deployed application, just go to the deployed app
  ISC
 
 ## Badges 
- ![languages badge](https://img.shields.io/github/Fer82/languages/count/react-portfolio-fer-ang-don)
- ![languages badge](https://img.shields.io/github/Fer82/languages/top/react-portfolio-fer-ang-don)
+ ![languages badge](https://img.shields.io/github//languages/count/Fer82/react-portfolio-fer-ang-don)
+ ![languages badge](https://img.shields.io/github//languages/top/Fer82/react-portfolio-fer-ang-don)
 
 ## Tests 
  No tests are currently in place for this project.
